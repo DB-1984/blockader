@@ -10,6 +10,14 @@
   padding: 2vw;
 }
 
+.wp-block-quote,
+.wp-block-pullquote {
+  margin: 2rem 0;
+  padding: 1.5rem 2rem;
+  border-left: 4px solid var(--wp--preset--color--contrast);
+  font-style: italic;
+}
+
 .header,
 .footer {
   padding: 2vw;
