@@ -82,7 +82,7 @@
         },
         {
           "slug": "hero",
-          "size": "clamp(15vw, 25vw, 30vw)",
+          "size": "clamp(15vw, 22vw, 30vw)",
           "name": "Hero"
         }
       ],
@@ -106,7 +106,6 @@
         }
       ]
     },
-
     "spacing": {
       "margin": true,
       "padding": true,
@@ -139,7 +138,9 @@
       "blockGap": "1rem",
       "padding": {
         "top": "0px",
-        "bottom": "0px"
+        "right": "2rem",
+        "bottom": "0px",
+        "left": "2rem"
       }
     },
 
