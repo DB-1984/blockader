@@ -82,7 +82,7 @@
         },
         {
           "slug": "hero",
-          "size": "clamp(15vw, 20vw, 30vw)",
+          "size": "clamp(15vw, 25vw, 30vw)",
           "name": "Hero"
         }
       ],

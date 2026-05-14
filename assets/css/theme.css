@@ -2,8 +2,6 @@
 .has-hero-font-size {
   -webkit-text-stroke-width: 2vw;
   line-height: 0.7;
-  max-width: 45vw;
-  min-height: 45vw
 }
 
 .hero-image {
@@ -21,6 +19,10 @@
 .header,
 .footer {
   padding: 2vw;
+}
+
+.wp-block-query .wp-block-post-title {
+	font-size: clamp(2.4rem, 5vw, 4.6rem) !important;
 }
 
 .blockader-page {
